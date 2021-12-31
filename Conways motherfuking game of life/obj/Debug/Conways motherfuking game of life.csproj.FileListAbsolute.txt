@@ -1,0 +1,13 @@
+C:\Users\Benjamin Bergmann\source\repos\Conways motherfuking game of life\Conways motherfuking game of life\bin\Debug\Conways motherfuking game of life.exe.config
+C:\Users\Benjamin Bergmann\source\repos\Conways motherfuking game of life\Conways motherfuking game of life\bin\Debug\Conways motherfuking game of life.exe
+C:\Users\Benjamin Bergmann\source\repos\Conways motherfuking game of life\Conways motherfuking game of life\bin\Debug\Conways motherfuking game of life.pdb
+C:\Users\Benjamin Bergmann\source\repos\Conways motherfuking game of life\Conways motherfuking game of life\obj\Debug\Conways motherfuking game of life.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin Bergmann\source\repos\Conways motherfuking game of life\Conways motherfuking game of life\obj\Debug\Conways_motherfuking_game_of_life.Form1.resources
+C:\Users\Benjamin Bergmann\source\repos\Conways motherfuking game of life\Conways motherfuking game of life\obj\Debug\Conways_motherfuking_game_of_life.Properties.Resources.resources
+C:\Users\Benjamin Bergmann\source\repos\Conways motherfuking game of life\Conways motherfuking game of life\obj\Debug\Conways motherfuking game of life.csproj.GenerateResource.Cache
+C:\Users\Benjamin Bergmann\source\repos\Conways motherfuking game of life\Conways motherfuking game of life\obj\Debug\Conways motherfuking game of life.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin Bergmann\source\repos\Conways motherfuking game of life\Conways motherfuking game of life\obj\Debug\Conways motherfuking game of life.exe
+C:\Users\Benjamin Bergmann\source\repos\Conways motherfuking game of life\Conways motherfuking game of life\obj\Debug\Conways motherfuking game of life.pdb
+C:\Users\Benjamin\Desktop\Schulstuff\2017\C#\Conways motherfuking game of life\Conways motherfuking game of life\bin\Debug\Conways motherfuking game of life.exe.config
+C:\Users\Benjamin\Desktop\Schulstuff\2017\C#\Conways motherfuking game of life\Conways motherfuking game of life\obj\Debug\Conways motherfuking game of life.exe
+C:\Users\Benjamin\Desktop\Schulstuff\2017\C#\Conways motherfuking game of life\Conways motherfuking game of life\obj\Debug\Conways motherfuking game of life.pdb
