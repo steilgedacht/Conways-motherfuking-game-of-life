@@ -4,6 +4,8 @@ A simple simulation of Conways Game of Life made in Visual Studio.
 The project files are in /Conways motherfuking game of life
 The executable program is Conways motherfuking game of life.exe
 
+Each pixel represents a cell and therefore it is recomended to use a screen magnifier to inspect the individual cells.
+
 There are 4 controls:
 First there is the Generate Button which generates a random pattern.
 Then you can Start or Stop the Simulation with the Start and Stop Key.
