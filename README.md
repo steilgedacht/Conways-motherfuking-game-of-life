@@ -1,8 +1,8 @@
 # Conways-motherfuking-game-of-life
 
 A simple simulation of Conways Game of Life made in Visual Studio.
-The project files are in /Conways motherfuking game of life
-The executable program is Conways motherfuking game of life.exe
+The project files are in [/Conways motherfuking game of life] (https://github.com/steilgedacht/Conways-motherfuking-game-of-life/tree/main/Conways%20motherfuking%20game%20of%20life)
+The executable program is [Conways motherfuking game of life.exe](https://github.com/steilgedacht/Conways-motherfuking-game-of-life/blob/main/Conways%20motherfuking%20game%20of%20life.exe)
 
 Each pixel represents a cell and therefore it is recomended to use a screen magnifier to inspect the individual cells.
 
